@@ -1,0 +1,49 @@
+html,
+body {
+  height: 100%;
+}
+
+.navigation {
+  background-color: #ed7966;
+}
+
+.body {
+  background-color: #f5cac2;
+}
+
+.cont {
+  background-color: #fae5df;
+  min-height: 100%;
+}
+
+.blackColour {
+  color: #000000;
+}
+
+.blackColour2 {
+  color: #303179;
+}
+
+.whiteColour {
+  color: #fae5df;
+}
+
+.imgDiv {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.img {
+  width: 45%;
+  border-radius: 25px;
+}
+
+.inpt {
+  border: 1px solid #ed7966;
+}
+
+.btton {
+  background-color: #ed7966;
+}
